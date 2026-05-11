@@ -10,7 +10,7 @@
  ~~Rendirse~~
 
  
-![Texto alternativo](https://i.pinimg.com/736x/83/eb/c1/83ebc1a37f6955a38e732360413efd01.jpg)
+![Texto alternativo](https://i.pinimg.com/1200x/1f/0d/cc/1f0dcc34fda83bb798e42397cb13e252.jpg)
 <!--
 **up250180ars/up250180ars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
