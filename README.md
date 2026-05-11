@@ -3,11 +3,11 @@
  ---
  ### Estudio actualmente en la Universidad Politécnica de Aguascalientes
  ---
- ### Soy egresado del CBTIS 168 **Francisco I. Madero**, donde conseguí el titulo de técnico en progrmación 💻
+ ### Soy egresado del CBTIS 168 *Francisco I. Madero* , donde conseguí el titulo de técnico en progrmación 💻
  ---
  ## Consegui experiencia en varios lenguajes como Python, Csharp, C++, tambíen en manipulación en bases de datos de Xampp 💪
 
- ##~Rendirse~
+ ~~Rendirse~~
 
  
 
