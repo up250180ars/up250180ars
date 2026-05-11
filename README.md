@@ -10,8 +10,7 @@
  ~~Rendirse~~
 
  
- ![Texto alternativo]((https://www.pinterest.com/onsidead/lamar-jackson/))
-
+![Texto alternativo](https://moure.dev/logo.svg "Título opcional")
 <!--
 **up250180ars/up250180ars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
